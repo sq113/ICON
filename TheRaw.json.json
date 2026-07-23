@@ -1,0 +1,13 @@
+{"name":"SQ Emby icon1", 
+"description":"By SQ", 
+"icons":[
+    {"name":"1111", "url":"https://raw.githubusercontent.com/sq113/Emby-icons/main/icon1/1111.jpg"},
+    {"name":"ETFLIX", "url":"https://raw.githubusercontent.com/sq113/Emby-icons/main/icon1/ETFLIX.jpg"},
+    {"name":"Infantry Camp", "url":"https://raw.githubusercontent.com/sq113/Emby-icons/main/icon1/Infantry Camp.jpg"},
+    {"name":"MDL", "url":"https://raw.githubusercontent.com/sq113/Emby-icons/main/icon1/MDL.jpg"},
+    {"name":"NAYO", "url":"https://raw.githubusercontent.com/sq113/Emby-icons/main/icon1/NAYO.jpg"},
+    {"name":"SG", "url":"https://raw.githubusercontent.com/sq113/Emby-icons/main/icon1/SG.jpg"},
+    {"name":"STAR.CORE", "url":"https://raw.githubusercontent.com/sq113/Emby-icons/main/icon1/STAR.CORE.jpg"},
+    {"name":"ZZM", "url":"https://raw.githubusercontent.com/sq113/Emby-icons/main/icon1/ZZM.jpg"}
+        ]
+}
